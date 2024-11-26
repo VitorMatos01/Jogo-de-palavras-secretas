@@ -1,6 +1,6 @@
 # Jogo-de-palavras-secretas
 Neste projeto, foi desenvolvido um jogo de palavras secretas como uma forma de iteração nos códigos.
-Ultilizando a linguagem da programação Python, que é uma linguagem dinâmica e forte.
+Ultilizando a linguagem de programação Python, que é uma linguagem dinâmica e forte.
 Foi usado o módulo os para limpar o terminal automaticamente após o ciclo ser concluído ultilizando 
 os.system(cls), que pode se ultilizar 'clear' no Windows e outros sistemas opercionais. Dessa forma, foi o ultilizado o loop principal(while) e subloop (for). Além disso, foi ultilizado (input) para entrada do jogador, validação da entrada do
 jogador através do que ele digitou usando 'if' e 'len' para analisar os elemnetos no argumento, con-
