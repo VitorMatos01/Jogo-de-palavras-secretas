@@ -1,4 +1,4 @@
-# Jogo-de-palavras-secretas
+# Um exemplo simples de Python
 Neste projeto, foi desenvolvido um jogo de palavras secretas como uma forma de iteração nos códigos.
 Ultilizando a linguagem de programação Python, que é uma linguagem dinâmica e forte.
 Foi usado o módulo os para limpar o terminal automaticamente após o ciclo ser concluído ultilizando 
